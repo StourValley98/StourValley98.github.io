@@ -2874,14 +2874,14 @@
 /* Header */
 
 	.subpage {
-		padding-top: 30px;
+		padding-top: 44px;
 	}
 
 		.subpage #header {
 			background: #d41200;
 			top: 0;
-			height: 30px;
-			line-height: 12px;
+			height: 44px;
+			line-height: 8px;
 			position: fixed;
 		}
 
@@ -3155,7 +3155,7 @@
 
 			#banner .flex div {
 				border-right: 2px solid rgba(255, 255, 255, 0.2);
-				padding: 0 2em;
+				padding: 0 8em;
 			}
 
 				#banner .flex div:last-child {
